@@ -1,0 +1,10 @@
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\bin\Debug\atv08.exe.config
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\bin\Debug\atv08.exe
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\bin\Debug\atv08.pdb
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\obj\Debug\atv08.csproj.AssemblyReference.cache
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\obj\Debug\atv08.frmPrincipal.resources
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\obj\Debug\atv08.Properties.Resources.resources
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\obj\Debug\atv08.csproj.GenerateResource.cache
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\obj\Debug\atv08.csproj.CoreCompileInputs.cache
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\obj\Debug\atv08.exe
+C:\Users\murilo.lssilva\source\repos\atv08\atv08\obj\Debug\atv08.pdb
