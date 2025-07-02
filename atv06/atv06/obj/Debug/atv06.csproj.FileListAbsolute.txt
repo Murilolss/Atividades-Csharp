@@ -1,0 +1,11 @@
+C:\Users\Murilo\source\repos\atv06\atv06\bin\Debug\atv06.exe.config
+C:\Users\Murilo\source\repos\atv06\atv06\bin\Debug\atv06.exe
+C:\Users\Murilo\source\repos\atv06\atv06\bin\Debug\atv06.pdb
+C:\Users\Murilo\source\repos\atv06\atv06\obj\Debug\atv06.csproj.AssemblyReference.cache
+C:\Users\Murilo\source\repos\atv06\atv06\obj\Debug\atv06.frmPrincipal.resources
+C:\Users\Murilo\source\repos\atv06\atv06\obj\Debug\atv06.Properties.Resources.resources
+C:\Users\Murilo\source\repos\atv06\atv06\obj\Debug\atv06.csproj.GenerateResource.cache
+C:\Users\Murilo\source\repos\atv06\atv06\obj\Debug\atv06.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\source\repos\atv06\atv06\obj\Debug\atv06.exe
+C:\Users\Murilo\source\repos\atv06\atv06\obj\Debug\atv06.pdb
+C:\Users\Murilo\source\repos\atv06\atv06\obj\Debug\atv06.exe.config
