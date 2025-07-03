@@ -1,0 +1,10 @@
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\bin\Debug\atv15.exe.config
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\bin\Debug\atv15.exe
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\bin\Debug\atv15.pdb
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\obj\Debug\atv15.csproj.AssemblyReference.cache
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\obj\Debug\atv15.frmPrincipal.resources
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\obj\Debug\atv15.Properties.Resources.resources
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\obj\Debug\atv15.csproj.GenerateResource.cache
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\obj\Debug\atv15.csproj.CoreCompileInputs.cache
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\obj\Debug\atv15.exe
+C:\Users\murilo.lssilva\source\repos\atv15\atv15\obj\Debug\atv15.pdb
